@@ -85,3 +85,10 @@ img {
   padding: 8px;
   width: 100%;
 }
+
+.no_contact h1 {
+  text-align: center;
+  color: #aaa;
+  font-size: 28px;
+  margin-top: 50px;
+}
