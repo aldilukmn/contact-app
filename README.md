@@ -1,1 +1,1 @@
-React contact app using functional component / stateless
+React contact app
