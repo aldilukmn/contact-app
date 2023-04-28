@@ -1,9 +1,10 @@
 import PropTypes from "prop-types";
+import { FiDelete } from "react-icons/fi";
 
 function DeleteButton({ id, onDelete }) {
   return (
     <button className="contact_item_delete" onClick={() => onDelete(id)}>
-      X
+      <FiDelete/>
     </button>
   );
 }
